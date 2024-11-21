@@ -1,6 +1,19 @@
 # 💫 About Me:
-About Me 👋<br>Hi there! I'm Belhamici Abderrahmane, a passionate and driven Master's student in Software Engineering and Information Processing with a love for technology and innovation. 🌟<br><br>🎯 My interests span a wide range of fields, including:<br><br>Artificial Intelligence (AI) and Machine Learning 🤖<br>Cybersecurity 🔒<br>Data Science and Blockchain 📊💻<br>Web Development, including 3D Web Development 🌐<br>💡 I'm on a mission to leverage technology to solve real-world problems and create meaningful impact. I enjoy diving deep into AI and cybersecurity, especially exploring how these fields intersect to enhance security and innovation.<br><br>📚 Currently, I’m focused on:<br><br>Building my skills in data science, AI, and cybersecurity through hands-on projects and certifications.<br>Developing a strong foundation in digital marketing to grow my personal brand.<br>🚀 In addition to my technical pursuits, I love learning about new technologies and collaborating on innovative projects.
+Hi there! I'm **Belhamici Abderrahmane**, a passionate and driven Master's student in **Software Engineering and Information Processing** with a love for technology and innovation. 🌟  
 
+🎯 My interests span a wide range of fields, including:  
+- **Artificial Intelligence (AI)** and **Machine Learning** 🤖  
+- **Cybersecurity** 🔒  
+- **Data Science and Blockchain** 📊💻  
+- **Web Development**, including **3D Web Development** 🌐  
+
+💡 I'm on a mission to leverage technology to solve real-world problems and create meaningful impact. I enjoy diving deep into AI and cybersecurity, especially exploring how these fields intersect to enhance security and innovation.  
+
+📚 Currently, I’m focused on:  
+- Building my skills in **data science**, **AI**, and **cybersecurity** through hands-on projects and certifications.  
+- Developing a strong foundation in **digital marketing** to grow my personal brand.  
+
+🚀 In addition to my technical pursuits, I love learning about new technologies and collaborating on innovative projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-belhamici-6a8628288) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abdouasasins202) 
