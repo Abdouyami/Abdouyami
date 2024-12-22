@@ -3,7 +3,8 @@ Hi there! I'm **Belhamici Abderrahmane**, a passionate and driven Master's stude
 
 🎯 My interests span a wide range of fields, including:  
 - **Artificial Intelligence (AI)** and **Machine Learning** 🤖  
-- **Cybersecurity** 🔒  
+- **Cybersecurity** 🔒
+- **AI in Medecine** 🧬
 - **Data Science and Blockchain** 📊💻  
 - **Web Development**, including **3D Web Development** 🌐  
 
