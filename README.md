@@ -18,7 +18,7 @@ Hi there! I'm **Belhamici Abderrahmane**, a passionate and driven technology ent
 🚀 Beyond technical pursuits, I enjoy learning about emerging technologies and collaborating on innovative projects.  
 
 
-[demo](piph.gif)
+![demo](piph.gif)
 
 
 
